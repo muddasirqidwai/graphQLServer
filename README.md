@@ -1,2 +1,0 @@
-# graphQLServer
-Created with CodeSandbox
